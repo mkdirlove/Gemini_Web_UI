@@ -11,7 +11,7 @@ USER_AVATAR = "👤"
 BOT_AVATAR = "✨"
 image_path = "Google-Gemini-AI-Logo.png"
 #private key for gemini.
-private_key = os.getenv("GOOGLE_API_KEY")
+private_key = "AIzaSyBBdPPHB8e7h6u0lr1-nKMiB80MGzlSvlk"
 genai.configure(api_key=private_key)
 
 
